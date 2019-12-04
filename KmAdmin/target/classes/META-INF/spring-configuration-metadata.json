@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.km.admin.property.FileStorageProperties",
+      "sourceType": "com.km.admin.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.version",
+      "type": "java.lang.String",
+      "description": "A description for 'api.version'"
+    },
+    {
+      "name": "app.jwtExpirationInMs",
+      "type": "java.lang.String",
+      "description": "A description for 'app.jwtExpirationInMs'"
+    },
+    {
+      "name": "app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "A description for 'app.jwtSecret'"
+    },
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.km.admin.property.FileStorageProperties"
+    },
+    {
+      "name": "swagger.deepLinking",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.deepLinking'"
+    },
+    {
+      "name": "swagger.defaultModelExpandDepth",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.defaultModelExpandDepth'"
+    },
+    {
+      "name": "swagger.defaultModelsExpandDepth",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.defaultModelsExpandDepth'"
+    },
+    {
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.description'"
+    },
+    {
+      "name": "swagger.displayOperationId",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.displayOperationId'"
+    },
+    {
+      "name": "swagger.displayRequestDuration",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.displayRequestDuration'"
+    },
+    {
+      "name": "swagger.enableUrlTemplating",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.enableUrlTemplating'"
+    },
+    {
+      "name": "swagger.enabled",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.enabled'"
+    },
+    {
+      "name": "swagger.filter",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.filter'"
+    },
+    {
+      "name": "swagger.maxDisplayedTags",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.maxDisplayedTags'"
+    },
+    {
+      "name": "swagger.showExtensions",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.showExtensions'"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.title'"
+    },
+    {
+      "name": "swagger.useDefaultResponseMessages",
+      "type": "java.lang.String",
+      "description": "A description for 'swagger.useDefaultResponseMessages'"
+    }
+  ],
+  "hints": []
+}
