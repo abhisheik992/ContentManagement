@@ -17,3 +17,6 @@ JWT entrypoint specifies the http error handlings
  like @PreAuthorize, @secured, @hasRole....
  
  Please give any more suggestions... 
+
+If intrested in any development of projects please mail me 
+abhisheik.992@gmail.com
